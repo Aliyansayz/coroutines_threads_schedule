@@ -15,6 +15,5 @@
 * **join():** A method used to wait for a thread to finish execution before proceeding.
 * **I/O bound:** A task that spends most of its time waiting for input or output operations to complete.
 
-**Would you like to delve deeper into specific concepts or explore more advanced topics like race conditions, deadlocks, or thread pools?**
 
 
